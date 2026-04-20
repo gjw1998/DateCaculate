@@ -1,30 +1,17 @@
-好的，我来帮你为这个仓库添加一个 README 文件。
 
-从【链接内容】可以看出，这个仓库是 `gjw1998/DateCaculate`，其描述为“Calculate the distance of date”，并且包含了几个 Java 文件，如 `DateCaculateApp.java`, `DateFormatProtocol.java`, `MainApp.java`, `PublicActionProtocol.java`, `TimerCaculateApp.java`。根据提交信息“Two applications of date calculator”，这应该是一个用于计算日期距离或日期间隔的应用程序。
 
-由于文档内容本身并未详细说明每个文件的具体功能，以下 README 内容是基于对仓库结构和通用 Java 项目实践的了解而编写的。一个完整的 README 通常包括项目概述、功能、使用方法、项目结构等信息。
-
----
-
-### **README.md**
-
-```markdown
 # DateCaculate
-
 一个用于计算日期距离和时间的 Java 应用程序。
 
 ## 项目描述
-
 本项目包含两个核心的日期计算应用，旨在提供便捷的日期差计算、日期格式化以及相关时间操作功能。
 
 ## 主要功能
-
 *   **日期距离计算**：计算两个给定日期之间的天数、月数或年数差。
 *   **日期格式化**：提供统一的日期格式协议，确保日期在不同模块间的一致性。
 *   **定时/计时计算**：可能涉及与时间点或时间段相关的计算功能。
 
 ## 项目结构
-
 ```
 DateCaculate/master
 ├── DateCaculateApp.java      # 主日期计算应用逻辑
@@ -35,7 +22,6 @@ DateCaculate/master
 ```
 
 ## 使用方法
-
 1.  **环境准备**：确保你的系统已安装 Java 运行环境 (JRE) 或 Java 开发工具包 (JDK)。
 2.  **编译项目**：在项目根目录下，使用以下命令编译所有 `.java` 文件：
     ```bash
